@@ -62,7 +62,7 @@ function App() {
     }
     try {
       const account = await sorobanServer.getAccount(walletAddress);
-      const operation = new Contract(contractId).call("vote", nativeToScVal(selectedOption, { type: "symbol" }));
+      const operation = new Contract(contractId).call("vote", nativeToScVal(walletAddress, { type: "address" }), nativeToScVal(selectedOption, { type: "symbol" }));
       let transaction = new TransactionBuilder(account, { fee: BASE_FEE, networkPassphrase: Networks.TESTNET }).addOperation(operation).setTimeout(180).build();
       const simulation = await sorobanServer.simulateTransaction(transaction);
       if (rpc.Api.isSimulationError(simulation)) throw new Error(simulation.error);
