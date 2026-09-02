@@ -1,0 +1,7 @@
+C:\Users\Ramana Dodleti\OneDrive\Documents\stellar-live-poll\stellar-live-poll\contracts\poll-contract\target\debug\deps\ark_serialize_derive-be346f5235e7753c.d: C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\lib.rs C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\serialize.rs C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\deserialize.rs
+
+C:\Users\Ramana Dodleti\OneDrive\Documents\stellar-live-poll\stellar-live-poll\contracts\poll-contract\target\debug\deps\ark_serialize_derive-be346f5235e7753c.dll: C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\lib.rs C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\serialize.rs C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\deserialize.rs
+
+C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\lib.rs:
+C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\serialize.rs:
+C:\Users\Ramana\ Dodleti\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ark-serialize-derive-0.4.2\src\deserialize.rs:
